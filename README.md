@@ -47,4 +47,4 @@ sudo nixos-rebuild switch --flake /etc/nixos#<your flake name>
 
 It'll take a bit. After that, restart, you should see lightdm, or your preffered display manager.
 
-Login and you should be on Qtile.
+Login and you should be on Qtile. (or your chosen WM)
