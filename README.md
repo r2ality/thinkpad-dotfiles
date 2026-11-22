@@ -1,5 +1,9 @@
 # Thinkpad dotfiles
 
+Specifically for my thinkpad.
+
+For the PC-specific dotfiles, see https://github.com/r2ality/main-nixos-dotfiles
+
 This config includes:
 
 1. X11 (and Wayland Qtile)
