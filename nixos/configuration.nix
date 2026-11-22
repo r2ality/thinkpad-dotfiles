@@ -5,6 +5,7 @@
     ./programs.nix
     ./packages.nix
     ./thinkpad.nix
+    ./boot.nix
   ];
 
   # Bootloader
