@@ -1,6 +1,11 @@
 # Thinkpad dotfiles
 
-## Specifically for my thinkpad.
+This config includes:
+
+1. X11 (and Wayland Qtile)
+2. LightDM
+3. A few configurations specifically for the thinkpad (shown below)
+4. And others
 
 ## This config supports:
 
